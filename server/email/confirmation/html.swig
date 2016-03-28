@@ -35,7 +35,7 @@
                 </tr>
                 <tr>
                   <td class="content-block">
-                    <a href="https://node-prelaunch.herokuapp.com">&mdash; Node Prelaunch App</a>
+                    <a href="https://rhyd.co">&mdash; Rethink How You are Driven at Rhyd</a>
                   </td>
                 </tr>
               </table>
